@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:visibility="visible"
+    android:id="@+id/ll_education"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="popupdialoggggggggggggggggggggggggggggggggg"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/educationChildLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/degreeLayout">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/educationField"
+                android:text="Select degree"
+                android:textColor="@color/pink"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/educationSearch"
+                android:text="Select degree"
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:textColor="@color/black"/>
+
+            <View
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"></View>
+            <TextView
+                android:id="@+id/tv_errorDegree"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="25dp"
+                android:textColor="@color/red"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@+id/degreeLayout"
+            android:id="@+id/specializationLayout">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/specializationField"
+                android:text="Select specialization"
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:textColor="@color/pink"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/specializationSearch"
+                android:text="Select specialization"
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:textColor="@color/black"/>
+
+            <View
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"></View>
+            <TextView
+                android:id="@+id/tv_errorspea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="25dp"
+                android:textColor="@color/red"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/passing1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/specializationLayout"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:hint="Passing year">
+
+            <EditText
+                android:id="@+id/passingYear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="4"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="University Name"
+            android:id="@+id/university"
+            android:layout_below="@+id/passing1"
+            android:textColorHint="@color/pink"
+            android:layout_margin="5dp">
+            <EditText
+                android:layout_width="match_parent"
+                android:id="@+id/universityName1"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:layout_below="@+id/university"
+            android:layout_margin="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Update"
+                android:padding="10dp"
+                android:id="@+id/upDateEducationProfile"
+                android:background="@color/button"
+                android:textColor="@color/white"
+                android:layout_marginRight="10dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                android:id="@+id/cancelEducationProfile"
+                android:padding="10dp"
+                android:background="@color/button"
+                android:textColor="@color/white"
+                android:layout_marginLeft="10dp"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>

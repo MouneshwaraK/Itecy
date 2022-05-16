@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <!-- <TextView
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="Edit"
+        android:gravity="center"
+        android:background="@color/button"
+        android:textColor="@color/white"
+        android:padding="5dp"
+        android:id="@+id/editCertification"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="10dp"/>-->
+    <ImageView
+        android:id="@+id/editCertification"
+        android:layout_width="30dp"
+        android:layout_weight="0.5"
+        android:layout_height="20dp"
+        android:src="@drawable/edite"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="10dp"/>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/certificationLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="120dp"
+                android:text="Certification"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:text=":"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:id="@+id/certificationName"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="120dp"
+                android:text="Validity"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:text=":"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:id="@+id/certificationValidity"
+                android:paddingLeft="10dp"
+                android:inputType="date"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="120dp"
+                android:text="Licence num"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:text=":"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:id="@+id/certificationLicenceNo"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="120dp"
+                android:text="Institute"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:text=":"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:id="@+id/certificationInstituteName"
+                android:paddingLeft="10dp"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+

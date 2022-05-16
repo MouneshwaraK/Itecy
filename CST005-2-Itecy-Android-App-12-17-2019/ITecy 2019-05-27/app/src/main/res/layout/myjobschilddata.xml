@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="5dp"
+        android:id="@+id/headerLayout"
+        android:background="@color/button">
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="S.No"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:id="@+id/snoh"
+            android:layout_margin="3dp"
+            android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Job Title"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_margin="3dp"
+            android:layout_toLeftOf="@+id/dateh"
+            android:layout_toRightOf="@+id/snoh"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apply Date"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:id="@+id/dateh"
+            android:layout_margin="3dp"
+            android:layout_toLeftOf="@+id/viewHeaderh"/>
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_margin="3dp"
+            android:text="Action"
+            android:gravity="center"
+            android:id="@+id/viewHeaderh"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="5dp"
+        >
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="S.No"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:id="@+id/sno"
+            android:layout_margin="3dp"
+            android:layout_alignParentLeft="true"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Job Title"
+            android:textColor="@color/black"
+            android:layout_margin="3dp"
+            android:id="@+id/jobTitle"
+            android:layout_toLeftOf="@+id/appliedDate"
+            android:layout_toRightOf="@+id/sno"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apply Date"
+            android:textColor="@color/black"
+            android:id="@+id/appliedDate"
+            android:layout_margin="3dp"
+            android:layout_toLeftOf="@+id/viewDetails"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:id="@+id/viewDetails"
+            android:gravity="center"
+            android:layout_marginEnd="34dp"
+            android:drawableRight="@drawable/info"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

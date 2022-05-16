@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selectGender">
+
+        <item>select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="selectMaritalStatus">
+
+        <item>select marital status</item>
+        <item>Married</item>
+        <item>Single</item>
+        <item>Divers</item>
+        <item>Widow</item>
+    </string-array>
+
+    <string-array name="noticePeriod">
+
+        <item>select notice period</item>
+        <item>Immediate</item>
+        <item>7 days</item>
+        <item>15 days</item>
+        <item>30 days</item>
+        <item>60 days</item>
+    </string-array>
+
+
+    <string-array name="expectedSalary">
+        <item>select expected salary</item>
+        <item>As per company standards</item>
+        <item>10% hike</item>
+        <item>20% hike</item>
+        <item>30% hike</item>
+        <item>40% hike</item>
+        <item>50% hike</item>
+    </string-array>
+
+    <string-array name="isCurrentCompany">
+        <item>Is current company</item>
+        <item>Yes</item>
+        <item>No</item>
+        </string-array>
+
+    <string-array name="experienceLevel" >
+        <item>select experience level</item>
+        <item>less than 1 year</item>
+        <item>1-2 years</item>
+        <item>3-5 years</item>
+        <item>6-10 years</item>
+        <item>more than 10 years</item>
+    </string-array>
+</resources>

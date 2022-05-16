@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-land/fragment_my_jobs.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-land/myjobschilddata.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-larg/nav_header_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/activity_about_us.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/activity_forgot_password.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/activity_main.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/activity_otp.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/activity_register.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/activity_splash_screen.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/adddegree.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/app_bar_main.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/certitifacationchild.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/content_main.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/custom_spinner.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/editcertificationlayout.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/editeducationdetails.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/editexperiencedetails.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/educacationlist.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/educationdetails.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/experiencechildview.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/fragment_about_us.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/fragment_change_password.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/fragment_jobs.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/fragment_profile.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/layout_country_codes.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/myjobinfo.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/search_child_data.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/searchitems.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-large/skills.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-sw600dp/activity_company_info.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-sw600dp/activity_registration.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-sw600dp/jobs_child_data.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-sw600dp/myjobschilddata.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-sw600dp/nav_header_main.xml" value="0.144140625" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout-xlarge/nav_header_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_about_us.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_company_info.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_forgot_password.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_login.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_otp.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_register.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_registration.xml" value="0.14" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/activity_splash_screen.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/adddegree.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/app_bar_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/certitifacationchild.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/content_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/custom_spinner.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/editcertificationlayout.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/editeducationdetails.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/editexperiencedetails.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/educacationlist.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/educationdetails.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/experiencechildview.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/fragment_about_us.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/fragment_change_password.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/fragment_jobs.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/fragment_my_jobs.xml" value="0.1" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/fragment_profile.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/jobs_child_data.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/layout_country_codes.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/myjobinfo.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/myjobschilddata.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/nav_header_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/search_child_data.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/searchitems.xml" value="0.1921875" />
+        <entry key="..\:/Users/cstech/AndroidStudioProjects/CST005-2-Itecy-Android-App-12-04-2022/CST005-2-Itecy-Android-App-12-17-2019/ITecy 2019-05-27/app/src/main/res/layout/skills.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

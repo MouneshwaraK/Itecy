@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cstech.itecy.Fragments.AboutUs">
+
+    <!-- TODO: Update blank fragment layout -->
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/aboutUsWebView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:id="@+id/appVersion"
+        android:textStyle="bold|italic"
+        android:background="@color/blue"
+        android:text="App Version"/>
+
+</FrameLayout>
